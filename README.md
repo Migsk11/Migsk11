@@ -1,4 +1,4 @@
-# Olá! Eu sou Miguel Alves
+# Olá! Eu sou Miguel
 
 **Desenvolvedor Full-Stack | Foco em Back-End**
 
