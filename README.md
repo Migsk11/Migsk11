@@ -1,4 +1,4 @@
-# Olá! Eu sou Miguel
+# Olá! Eu me chamo Miguel
 
 **Desenvolvedor Full-Stack | Foco em Back-End**
 
